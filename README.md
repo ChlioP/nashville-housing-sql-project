@@ -43,6 +43,7 @@ This project focuses on cleaning and analyzing a real-world housing dataset from
 
 ## Tableau Dashboard
 https://public.tableau.com/app/profile/chliona.pham/viz/Nashville_Housing_Data/Dashboard1?publish=yes
+<img width="652" alt="Nashville_housing_dashboard" src="https://github.com/user-attachments/assets/4c67f975-2f2d-4ac1-b0a1-845f4ed8ad57" />
 
 ---
 
