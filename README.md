@@ -38,3 +38,15 @@ This project focuses on cleaning and analyzing a real-world housing dataset from
     - Error 1175: Safe update mode restructions
     - Error 1411: Incorrect datetime value
     - Error 1305: Function not recorginzed
+
+---
+
+## Tableau Dashboard
+https://public.tableau.com/app/profile/chliona.pham/viz/Nashville_Housing_Data/Dashboard1?publish=yes
+
+---
+
+## Dataset Source 
+https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
+
+
